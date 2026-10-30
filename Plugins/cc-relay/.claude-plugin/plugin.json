@@ -1,0 +1,8 @@
+{
+  "name": "cc-relay",
+  "description": "Continues original Claude Desktop Code work after account switches and compacts long conversations before quota runs out.",
+  "author": {
+    "name": "CC-Relay"
+  },
+  "version": "0.7.10"
+}

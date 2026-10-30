@@ -1,0 +1,10 @@
+.DS_Store
+.build/
+.swiftpm/
+build/
+# Root only. A bare `sandbox/` also hides Sources/CompanionCore/Sandbox on a case-insensitive checkout.
+/sandbox/
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+*.log

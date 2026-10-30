@@ -1,0 +1,14 @@
+{
+  "name": "cc-relay-local",
+  "description": "CC-Relay native conversation continuity and quota compaction",
+  "owner": {
+    "name": "CC-Relay"
+  },
+  "plugins": [
+    {
+      "name": "cc-relay",
+      "source": "./cc-relay",
+      "description": "Continues original Desktop Code conversations after account switches and compacts long conversations before quota runs out"
+    }
+  ]
+}
